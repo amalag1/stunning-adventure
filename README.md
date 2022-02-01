@@ -60,6 +60,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 </p>
 
 <p>
+  
   <img src="ahmer-kalam-EZyot4kBaLg-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
