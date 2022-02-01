@@ -60,12 +60,12 @@ magna cursus in. Vestibulum eu consectetur magna.
 </p>
 
 <p>
-ahmer-kalam-EZyot4kBaLg-unsplash
+  <img src="ahmer-kalam-EZyot4kBaLg-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
 
 leo scelerisque hendrerit non non dui. Integer condimentum quam sed tellus
-
+ 
 ultricies a aliquam elit ornare. Curabitur ac libero et sapien feugiat
 
 porta vitae sed lorem. In faucibus imperdiet neque, sit amet accumsan
