@@ -78,6 +78,8 @@ Sed consectetur ornare libero a sagittis. Pellentesque aliquet ipsum ante.
 Sed eget tellus dui, eget sodales lectus.
 
 </p>
+  
+  < img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="70px" width="70px">
 
 </div><!--leftcol slutar-->
 
