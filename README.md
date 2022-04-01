@@ -71,7 +71,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 </p>
   
-  <img src= "jeanie-de-klerk-PAcT-amBgr4-unsplash(1).jpg" alt="T" heigt="500px" width="500px">
+  <img src= "jeanie-de-klerk-PAcT-amBgr4-unsplash(1).jpg" alt="T" heigt="400px" width="500px">
 
 </div><!--leftcol slutar-->
 
@@ -79,20 +79,14 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 <p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id erat
+Katten är skicklig på att fånga möss, sorkar och småfåglar. 
+  
+En katt kan springa 50 km/h på korta sträckor och hoppa två meter rakt upp. 
+  
+Jaktinstinkten har den med sig sen 10 000 år från falbkatten, den vildkatt i Orienten som var tamkattens förfader och förmoder. 
 
-et elit blandit lobortis a a neque. Fusce lacus nisi, vulputate quis vulputate
-
-vel, aliquam vitae libero. Sed congue ligula quis turpis tincidunt ut
-
-ultrices ante feugiat. Sed semper tortor fermentum ligula fringilla tristique.
-
-Mauris lacinia venenatis commodo. Curabitur scelerisque pharetra facilisis.
-
-Donec et iaculis nunc. Curabitur rhoncus iaculis diam, rutrum faucibus
-
-magna cursus in. Vestibulum eu consectetur magna.
-
+Katter är anpassade för smygjakt.
+  
 </p>
 
 <p><img src="img/andreas.jpg" height="300" width="201" alt="Foto" />
