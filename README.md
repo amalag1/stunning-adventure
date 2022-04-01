@@ -61,25 +61,17 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 <p>
   
-   <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
+  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a augue id
-
-leo scelerisque hendrerit non non dui. Integer condimentum quam sed tellus
- 
-ultricies a aliquam elit ornare. Curabitur ac libero et sapien feugiat
-
-porta vitae sed lorem. In faucibus imperdiet neque, sit amet accumsan
-
-ante elementum tincidunt. Proin tincidunt massa at leo tincidunt consectetur.
-
-Sed consectetur ornare libero a sagittis. Pellentesque aliquet ipsum ante.
-
-Sed eget tellus dui, eget sodales lectus.
+  Den genomsnittliga hunden lever i 10 till 14 år. I allmänhet lever mindre raser längre än större raser. 
+  
+  Världens äldsta ras, saluki, härstammar från Egypten för flera tusen år sedan. 
+  
+  Enligt en studie gjord av Cornell University, tämjdes hundar redan för mellan 9 000 och 34 000 år sedan.
 
 </p>
   
-   <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="70px" width="70px">
+  <img src= "christian-holzinger-noqV_-OsYKg-unsplash (1).jpg" alt="T" heigt="70px" width="70px">
 
 </div><!--leftcol slutar-->
 
