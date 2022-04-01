@@ -61,7 +61,7 @@ magna cursus in. Vestibulum eu consectetur magna.
 
 <p>
   
-  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="70px" width="70px">
+  <img src="camilo-fierro-z7rcwqCi77s-unsplash(1).jpg" alt="S" heigt="100px" width="100px">
 
   Den genomsnittliga hunden lever i 10 till 14 år. I allmänhet lever mindre raser längre än större raser. 
   
